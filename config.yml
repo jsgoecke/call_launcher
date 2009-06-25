@@ -2,7 +2,7 @@
 number_of_calls: 3
 delay_between_calls: 2 #In seconds
 sleep_time: 3600 #Time to sleep after the call is answered
-file_to_play: topictel_tests/topictel_religion
+file_to_play: topictel_test/topictel_religion
 
 #URI of the DRb server of Adhearsion
 ahn_drb_uri: druby://localhost:9050
