@@ -1,0 +1,12 @@
+#Number of calls to launch
+number_of_calls: 12
+delay_between_calls: 2 #In seconds
+sleep_time: 3600 #Time to sleep after the call is answered
+file_to_play: topictel_tests/religion.gsm
+
+#URI of the DRb server of Adhearsion
+ahn_drb_uri: druby://localhost:9050
+
+#Where to call and where to send
+channel: SIP/9991432930@sip.voxeo.net 
+context: topictel_test
